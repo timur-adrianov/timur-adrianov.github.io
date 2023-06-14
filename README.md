@@ -1,1 +1,0 @@
-# timur-adrianov.github.io
