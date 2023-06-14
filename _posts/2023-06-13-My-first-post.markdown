@@ -2,7 +2,7 @@
 layout: post
 title:  "My first post"
 date:   2023-06-13 23:20:38 -0400
-categories: Blog
+categories: jekyll update
 ---
 Hello everyone, 
 I am Timur Adrianov, a second-year graduate student in organic chemistry at Harvard. I'm trying to build my perosnal static website using Jekyll
